@@ -52,3 +52,7 @@ Restart resets the board and game state.
 📂 Project Structure
 
 ![1EFA0BDA-B350-438F-92CE-419AE2C201B7_4_5005_c](https://github.com/user-attachments/assets/3624bd5a-ebef-40e3-a351-206e99e937d3)
+
+Output:
+<img width="922" height="1080" alt="5AE784A7-8031-4864-96BE-7DF6AB8F3755" src="https://github.com/user-attachments/assets/ab1a965b-6c0e-4444-8666-8534bdfa8176" />
+
